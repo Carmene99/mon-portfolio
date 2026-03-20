@@ -1,5 +1,6 @@
 {
   "homepage": "https://github.com/Carmene99/mon-portfolio",
+  "basename": "/mon-portfolio",
   "name": "developerfolio",
   "version": "0.1.0",
   "private": true,
